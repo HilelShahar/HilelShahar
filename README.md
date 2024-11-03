@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Shahar Hilel</h1>
-<h3 align="center">I am a computer science student from Israel, with a passion for problem-solving, AI and software development.</h3>
+<h3 align="center">I am a software developer and a computer science student from Israel.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hilelshahar&label=Profile%20views&color=0e75b6&style=flat" alt="hilelshahar" /> </p>
 
-- 🌱 I’m currently a second year B.Sc Computer Science student at the **Open University Of Israel**
+- 🌱 I’m currently a 2nd year B.Sc Computer Science student at the **Open University Of Israel**
 
 - 📫 How to reach me **Shaharhilel10@gmail.com**
 
