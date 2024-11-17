@@ -4,6 +4,7 @@
 
 <h3 align="center">I am a software developer and a computer science student from Israel.</h3>
 
+
 - 🌱 I’m currently a 2nd year B.Sc Computer Science student at the **Open University Of Israel**
 
 - 📫 How to reach me **Shaharhilel10@gmail.com**
