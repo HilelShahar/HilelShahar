@@ -1,17 +1,26 @@
 <h1 align="center">Hi 👋, I'm Shahar Hilel</h1>
 
+<p align="center">
+  B.Sc. Computer Science student @ The Open University of Israel (Expected 2027) • Major GPA: 94
+  <br/>
+  Interested in <b>systems</b>, <b>clean engineering</b>, and <b>building real products</b>.
+</p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=hilelshahar&label=Profile%20views&color=0e75b6&style=flat" alt="hilelshahar" /> </p>
 
+## 🛠 Tech I use:
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,c,python,linux,supabase,vscode" />
+  </a>
 
-- 🌱 I’m currently a 2nd year B.Sc Computer Science student at the **Open University Of Israel**
+---
 
-- 📫 How to reach me **Shaharhilel10@gmail.com**
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-
-<h3 align="left">Connect with me:</h3>
+## 📫 Connect with me:
 <p align="left">
-<a href="https://linkedin.com/in/shahar-hilel-a6b4b5329" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shahar hilel" height="30" width="40" /></a>
+    <a href="https://linkedin.com/in/shahar-hilel-a6b4b5329">
+        <img src="https://skillicons.dev/icons?i=linkedin"/>
+    </a>
+  &nbsp;&nbsp;
+    <a href="mailto:Shaharhilel10@gmail.com">
+        <img src="https://skillicons.dev/icons?i=gmail"/>
+    </a>
 </p>
